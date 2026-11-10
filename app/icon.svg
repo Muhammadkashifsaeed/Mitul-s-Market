@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32" fill="none">
+  <defs>
+    <linearGradient id="mm-bg" x1="0" y1="0" x2="32" y2="32" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#4F46E5" />
+      <stop offset="100%" stop-color="#6366F1" />
+    </linearGradient>
+    <linearGradient id="mm-screen" x1="8.5" y1="9" x2="23.5" y2="17.5" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#1E1B4B" />
+      <stop offset="100%" stop-color="#4338CA" />
+    </linearGradient>
+  </defs>
+  <rect width="32" height="32" rx="8" fill="url(#mm-bg)" />
+  <rect x="6.5" y="7" width="19" height="12.5" rx="2" fill="#FFFFFF" />
+  <rect x="8.5" y="9" width="15" height="8.5" rx="1" fill="url(#mm-screen)" />
+  <path d="M10.5 11.5H16.5M10.5 14H14" stroke="#A5B4FC" stroke-width="1.4" stroke-linecap="round" />
+  <circle cx="20.5" cy="14" r="1.4" fill="#34D399" />
+  <path d="M4.5 22.3C4.5 21.58 5.08 21 5.8 21H26.2C26.92 21 27.5 21.58 27.5 22.3V22.8C27.5 24.01 26.51 25 25.3 25H6.7C5.49 25 4.5 24.01 4.5 22.8V22.3Z" fill="#FFFFFF" />
+  <rect x="13.5" y="22.1" width="5" height="1.2" rx="0.6" fill="#4F46E5" />
+</svg>
+
